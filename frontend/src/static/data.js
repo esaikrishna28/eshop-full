@@ -27,7 +27,7 @@ export const navItems = [
     {
       id: 1,
       title: "Free Shipping",
-      Description: "From all orders over 100$",
+      Description: "From all orders over 500₹",
       icon: (
         <svg
           width="36"
@@ -76,8 +76,8 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Daily Surprise Offers",
-      Description: "Save up to 25% off",
+      title: "Good Quality Products ",
+      Description: "Best quality direct from producers ",
       icon: (
         <svg
           width="32"
@@ -105,7 +105,7 @@ export const navItems = [
     {
       id: 4,
       title: "Affortable Prices",
-      Description: "Get Factory direct price",
+      Description: "Direct distribution channels",
       icon: (
         <svg
           width="32"
@@ -191,72 +191,72 @@ export const navItems = [
   export const categoriesData = [
     {
       id: 1,
-      title: "Computers and Laptops",
+      title: "Grains and Legumes",
       subTitle: "",
       image_Url:
-        "https://cdn.shopify.com/s/files/1/1706/9177/products/NEWAppleMacbookProwithM1ProChip14InchLaptop2021ModelMKGQ3LL_A_16GB_1TBSSD_custommacbd.jpg?v=1659592838",
+      "https://img.freepik.com/free-photo/legumes-beans-assortment-different-bowls-light-stone-background-top-view-healthy-vegan-protein-food_114579-10734.jpg?t=st=1713680652~exp=1713684252~hmac=ffe252e0e60589ba00c641bfa8689f0fcecdd5e844cf08943a928e8940f99381&w=740"
     },
     {
       id: 2,
-      title: "cosmetics and body care",
+      title: "Cheese and Dairy Products",
       subTitle: "",
       image_Url:
-        "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-07/kosme1.png",
+      "https://img.freepik.com/free-photo/top-view-variety-gourmet-cheese_23-2148610560.jpg?t=st=1713680766~exp=1713684366~hmac=c4a975128c5d64d2f1f5f670a9a9d8fde5ffabadb77f62b3e912362a8c86a57f&w=740"
     },
     {
       id: 3,
-      title: "Accesories",
+      title: "Flour and Baking Mixes",
       subTitle: "",
       image_Url:
-        "https://img.freepik.com/free-vector/ordering-goods-online-internet-store-online-shopping-niche-e-commerce-website-mother-buying-babies-clothes-footwear-toys-infant-accessories_335657-2345.jpg?w=2000",
+      "https://img.freepik.com/free-photo/stashed-flour-used-cooking_23-2149517206.jpg?t=st=1713680842~exp=1713684442~hmac=feccbfd8e196351bb64a3e8ddf4f7bd52076b701b8bfd93a8dc090d337e95a92&w=360"
     },
     {
       id: 4,
-      title: "Cloths",
+      title: "Preserved Meat",
       subTitle: "",
       image_Url:
-        "https://www.shift4shop.com/2015/images/industries/clothing/clothing-apparel.png",
+      "https://img.freepik.com/free-photo/close-up-photo-turkish-lokum-jar-black-background_114579-48935.jpg?t=st=1713680921~exp=1713684521~hmac=adcbcf83657be02286c690f1d6671b921c1d31258de10159ef54afce05934e22&w=740"
     },
     {
       id: 5,
-      title: "Shoes",
+      title: "Root Vegetables",
       subTitle: "",
       image_Url:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBQPQMVNRd6TtDkGs2dCri0Y-rxKkFOiEWw&usqp=CAU",
+        "https://img.freepik.com/premium-vector/vegetables-growing-ground-one-line-onion-carrot-plants-showing-root-structure-ground-level-organic-healthy-food-vegetable-garden-banner-poster-with-root-veggies_87946-1206.jpg?w=740"
     },
     {
       id: 6,
-      title: "Gifts",
+      title: "Dried Goods",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+      "https://img.freepik.com/free-photo/mixed-nuts-dried-fruit_23-2147689610.jpg?t=st=1713681037~exp=1713684637~hmac=fe3122cda0f9f1c4f1f5fe0fa2de7b60283c03581ab9d1155c2e62558e09baae&w=740"
     },
     {
       id: 7,
-      title: "Pet Care",
+      title: "Preserved Produce",
       subTitle: "",
-      image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+      image_Url: "https://img.freepik.com/free-photo/pickled-vegetables-arrangement_23-2148606760.jpg?t=st=1713681103~exp=1713684703~hmac=7f9ab2474573638f75dc2fb6f660faa87a69d0db2caeae73aa4cf8423f63bd2e&w=360",
     },
     {
       id: 8,
-      title: "Mobile and Tablets",
+      title: "Honey and Bee Products",
       subTitle: "",
       image_Url:
-        "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mpwp3tua-apple-iphone-14-256gb-mavi-mpwp3tua-637986832343472449.jpg",
+      "https://as1.ftcdn.net/v2/jpg/04/11/79/00/1000_F_411790085_suTTcOj98Kn0QYUclyXkk59Kr4147rMp.jpg"
     },
     {
       id: 9,
-      title: "Music and Gaming",
+      title: "Preserved Flowers",
       subTitle: "",
       image_Url:
-        "https://static.vecteezy.com/system/resources/previews/011/996/555/original/3d-black-headphone-illustration-ecommerce-icon-png.png",
+      "https://img.freepik.com/free-photo/various-legumes_53876-47070.jpg?t=st=1713681288~exp=1713684888~hmac=a3cbc16575d209a93e522063b0467b32bfac152c42566f975b9e3a85484714f5&w=740"
     },
     {
       id: 10,
       title: "Others",
       subTitle: "",
       image_Url:
-        "https://searchspring.com/wp-content/uploads/2022/10/Hero-Image-Platform-Others-2.png",
+      "https://img.freepik.com/free-photo/still-life-with-apples-autumn-flowers_155003-1786.jpg?t=st=1713681353~exp=1713684953~hmac=85e18328ab6246eb1518974e810bbe57d16201a3ba4aab0c92889bc8d4feb860&w=740"
     },
   ];
   
@@ -613,19 +613,19 @@ export const navItems = [
   
   export const footercompanyLinks = [
     {
-      name: "Game & Video",
+      name: "Grains and Legumes",
     },
     {
-      name: "Phone &Tablets",
+      name: "Cheese and Dairy Products",
     },
     {
-      name: "Computers & Laptop",
+      name: "Flour and Baking Mixes",
     },
     {
-      name: "Sport Watches",
+      name: "Dried Goods",
     },
     {
-      name: "Events",
+      name: "Preserved Produce",
     },
   ];
   

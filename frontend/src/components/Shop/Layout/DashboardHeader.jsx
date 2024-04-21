@@ -13,7 +13,7 @@ const DashboardHeader = () => {
       <div>
         <Link to="/dashboard">
           <img
-            src="https://shopo.quomodothemes.website/assets/images/logo.svg"
+            src="https://i.ibb.co/2Scm2H6/Revolutionary-agriculture.jpg"
             alt=""
           />
         </Link>
